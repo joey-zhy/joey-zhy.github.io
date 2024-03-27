@@ -81,7 +81,7 @@ skills:
         description: 'Amateur hardcore player'
         percent: 100
         icon: shuttlecock
-        #icon_pack: fas
+        icon_pack: icons
       - name: Photography
         description: 'Photo retouching master'
         percent: 80
@@ -132,5 +132,5 @@ social:
 highlight_name: true
 ---
 
-Yi Zhou is PhD Student at Northwestern Polytechnical University. His research interests include dynamic behaviors of metal droplet ejection and impacting, electronics packaging technology, and construction technology of micro-domain shielding gas for metal droplet-based 3D printing.
+Yi Zhou is a PhD Student at Northwestern Polytechnical University. His research interests include dynamic behaviors of metal droplet ejection and impacting, electronics packaging technology, and construction technology of micro-domain shielding gas for metal droplet-based 3D printing.
 {style="text-align: justify;"}
