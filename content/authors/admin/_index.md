@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yi Zhou is PhD Student at Northwestern Polytechnical University. His research interests include dynamic behaviors of metal droplet ejection and impacting, electronics packaging technology, and construction technology of micro-domain shielding gas for metal droplet-based 3D printing.
 {style="text-align: justify;"}
