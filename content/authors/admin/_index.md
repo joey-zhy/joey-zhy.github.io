@@ -81,7 +81,7 @@ skills:
         description: 'Amateur hardcore player'
         percent: 100
         icon: shuttlecock
-        icon_pack: fas
+        #icon_pack: fas
       - name: Photography
         description: 'Photo retouching master'
         percent: 80
@@ -90,7 +90,7 @@ skills:
       - name: Movie
         description: 'Entertainment'
         percent: 60
-        icon: camera-movie
+        icon: clapperboard
         icon_pack: fas
       - name: Music
         description: 'Relaxation'
