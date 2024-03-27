@@ -11,7 +11,7 @@ last_name: Zhou
 
 # Status emoji
 status:
-  icon: ☕️📚📈🧮
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -80,7 +80,7 @@ skills:
       - name: Badminton
         description: 'Amateur hardcore player'
         percent: 100
-        icon: shuttlecock.svg
+        icon: shuttlecock
        # icon_pack: icons
       - name: Photography
         description: 'Photo retouching master'
