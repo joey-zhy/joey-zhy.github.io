@@ -66,7 +66,7 @@ sections:
         - title: PhD
           company: Northwestern Polytechnical University
           company_url: ''
-          company_logo: NWPU.svg
+          company_logo: org-gc
           location: California
           date_start: '2021-01-01'
           date_end: ''
