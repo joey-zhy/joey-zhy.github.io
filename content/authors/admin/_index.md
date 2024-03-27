@@ -111,7 +111,7 @@ social:
     link: https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA
    # label: Follow me on Twitter
    # display:
-   # header: true
+   #   header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=k1hqbfQAAAAJ&hl=en
@@ -120,7 +120,7 @@ social:
     link: https://www.instagram.com/joey.zho?igsh=MTRnYjVkODN4M2Zzag%3D%3D&utm_source=qr
     label: Follow me on Instagram
     display:
-    header: true
+      header: true
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Yi-Zhou-293
