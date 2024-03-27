@@ -80,8 +80,8 @@ skills:
       - name: Badminton
         description: 'Amateur hardcore player'
         percent: 100
-        icon: icons/brands/shuttlecock
-       # icon_pack: icons
+        icon: shuttlecock
+       icon_pack: fas
       - name: Photography
         description: 'Photo retouching master'
         percent: 80
