@@ -72,11 +72,8 @@ sections:
           date_start: '2021-03-01'
           date_end: ''
           description: |2-
-              Research topics:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Dissertation proposal:
+              * 同轴供气微域保护金属微滴喷射打印设备开发及研究.
         - title: MRes in Mechanical Engineering
           company: Northwestern Polytechnical University
           company_url: ''
@@ -85,16 +82,19 @@ sections:
           date_start: '2018-09-01'
           date_end: '2021-03-01'
           description: |2-
-              Research topics:
+              Graduation project:
               * 微域保护环境下的金属液滴喷射工艺.
-        - title: Professor of Semiconductor Physics
-          company: University X
+
+        - title: BEng in Industrial Design
+          company: Northwestern Polytechnical University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: 微域保护环境下的金属液滴喷射工艺.
+          location: Xi'an
+          date_start: '2014-09-01'
+          date_end: '2018-07-01'
+          description: |2-
+              Graduation project:
+              * 立体微电路打印设备工业设计.
     design:
       columns: '2'
   - block: accomplishments
