@@ -78,22 +78,22 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Badminton
-        description: ''
+        description: 'Amateur hardcore player'
         percent: 100
         icon: shuttlecock
         icon_pack: fas
       - name: Photography
-        description: ''
+        description: 'Photo retouching master'
         percent: 80
         icon: camera-retro
         icon_pack: fas
       - name: Movie
-        description: ''
+        description: 'Entertainment'
         percent: 60
         icon: camera-movie
         icon_pack: fas
       - name: Music
-        description: ''
+        description: 'Relaxation'
         percent: 60
         icon: music
         icon_pack: fas   
