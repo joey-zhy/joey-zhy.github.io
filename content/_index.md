@@ -63,20 +63,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD
+        - title: PhD in Mechanical Engineering
           company: Northwestern Polytechnical University
           company_url: ''
           #company_logo: org-gc
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Xi'an
+          date_start: '2021-03-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Research topics:
 
               * Analysing
               * Modelling
               * Deploying
+        - title: MRes in Mechanical Engineering
+          company: Northwestern Polytechnical University
+          company_url: ''
+          company_logo: org-x
+          location: Xi'an
+          date_start: '2018-09-01'
+          date_end: '2021-03-01'
+          description: |2-
+              Research topics:
+              * 微域保护环境下的金属液滴喷射工艺.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -84,7 +94,7 @@ sections:
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: 微域保护环境下的金属液滴喷射工艺.
     design:
       columns: '2'
   - block: accomplishments
