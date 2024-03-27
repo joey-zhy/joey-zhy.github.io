@@ -105,7 +105,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yizhou@mail.nwpu.edu.cn'
+    link: 'mailto:yizhou@mail.nwpu.edu.cn@example.com'
   - icon: twitter
     icon_pack: fab
     link: https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA
