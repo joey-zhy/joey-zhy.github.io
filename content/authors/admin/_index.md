@@ -25,7 +25,7 @@ organizations:
     url: https://www.nwpu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include dynamic behaviors of metal droplet ejection and impacting, electronics packaging technology, and construction technology of micro-domain shielding gas for metal droplet-based 3D printing.
+bio: My research interests include additive manufacturing, electronics packaging, construction micro-domain shielding gas, CFD Simulation.
 
 # Interests to show in About widget
 interests:
@@ -54,17 +54,17 @@ skills:
   - name: Technical
     items:
       - name: CFD Simulation
-        description: 'ANSYS Fluent, Flow3D, COMSOL'
+        description: 'ANSYS Fluent, Flow3D, COMSOL, etc.'
         percent: 80
         icon: wind
         icon_pack: fas
       - name: 3D modeling
-        description: 'SolidWorks, Rhino'
+        description: 'SolidWorks, Rhino, etc.'
         percent: 90
         icon: cube
         icon_pack: fas
       - name: Image/Video Processing
-        description: 'PS, LR, AI, PR, etc.'
+        description: 'PhotoShop, LightRoom, Illustrator, Premiere, etc.'
         percent: 90
         icon: photo-film
         icon_pack: fas
@@ -105,32 +105,38 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:yizhou@mail.nwpu.edu.cn'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?user=k1hqbfQAAAAJ&hl=en
+  - icon: instagram
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.instagram.com/joey.zho?igsh=MTRnYjVkODN4M2Zzag%3D%3D&utm_source=qr
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Yi-Zhou-293
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/gcushen
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Yi Zhou is a PhD Student at Northwestern Polytechnical University. His research interests include dynamic behaviors of metal droplet ejection and impacting, electronics packaging technology, and construction technology of micro-domain shielding gas for metal droplet-based 3D printing.
+Yi Zhou is a PhD Student at Northwestern Polytechnical University. His research interests include metal droplet-based 3D printing, dynamic of metal droplet ejection and impacting, electronics packaging, construction of micro-domain shielding gas, and gas-liquid two-phase flow dynamics simulation.
 {style="text-align: justify;"}
