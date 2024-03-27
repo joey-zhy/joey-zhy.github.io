@@ -11,17 +11,17 @@ last_name: Zhou
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️📚📈🧮
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Doctor of Engineering
+role: PhD in engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Northwestern Polytechnical UniversitySchool of Mechanical Engineering
+  - name: Northwestern Polytechnical University·School of Mechanical Engineering
     url: https://www.nwpu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,62 +29,74 @@ bio: My research interests include dynamic behaviors of metal droplet ejection a
 
 # Interests to show in About widget
 interests:
-  - Mechanical Behavior of Materials
-  - Manufacturing Process Mechanics
+  - Materials Processing
+  - CFD Simulation
   - Additive Manufacturing
+  - Fluid Dynamics
+  - Shielding Gas
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Mechanical Engineering
+      institution: Northwestern Polytechnical University
+      year: 2021
+    - course: MRes in Mechanical Engineering
+      institution: Northwestern Polytechnical University
+      year: 2018
+    - course: BEng in Industrial Design
+      institution: Northwestern Polytechnical University
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ''
+      - name: CFD Simulation
+        description: 'ANSYS Fluent, Flow3D, COMSOL'
         percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
+        icon: wind
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
+      - name: 3D modeling
+        description: 'SolidWorks, Rhino'
+        percent: 90
+        icon: cube
+        icon_pack: fas
+      - name: Image/Video Processing
+        description: 'PS, LR, AI, PR, etc.'
+        percent: 90
+        icon: photo-film
+        icon_pack: fas
+      - name: Material characterization
+        description: 'SEM, EDS, etc.'
+        percent: 80
+        icon: binoculars
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Badminton
         description: ''
         percent: 100
-        icon: cat
+        icon: shuttlecock
         icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
         icon: camera-retro
         icon_pack: fas
+      - name: Movie
+        description: ''
+        percent: 60
+        icon: camera-movie
+        icon_pack: fas
+      - name: Music
+        description: ''
+        percent: 60
+        icon: music
+        icon_pack: fas   
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
