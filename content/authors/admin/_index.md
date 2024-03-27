@@ -80,7 +80,7 @@ skills:
       - name: Badminton
         description: 'Amateur hardcore player'
         percent: 100
-        icon: shuttlecock
+        icon: shuttlecock.svg
        # icon_pack: icons
       - name: Photography
         description: 'Photo retouching master'
