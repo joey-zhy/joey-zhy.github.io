@@ -73,28 +73,28 @@ sections:
           date_end: ''
           description: |2-
               Dissertation proposal:
-              * 同轴供气微域保护金属微滴喷射打印设备开发及研究.
+              * Research on the equipment and experiments of metal droplet 3D printing based on coaxial shielding gas supply.
         - title: MRes in Mechanical Engineering
           company: Northwestern Polytechnical University
           company_url: ''
-          company_logo: org-x
+          company_logo: NWPU
           location: Xi'an
           date_start: '2018-09-01'
           date_end: '2021-03-01'
           description: |2-
               Graduation project:
-              * 微域保护环境下的金属液滴喷射工艺.
+              * Micro-domain protection of tin alloy bump printing and its experimental research.
 
         - title: BEng in Industrial Design
           company: Northwestern Polytechnical University
           company_url: ''
-          company_logo: org-x
+          company_logo: NWPU
           location: Xi'an
           date_start: '2014-09-01'
           date_end: '2018-07-01'
           description: |2-
               Graduation project:
-              * 立体微电路打印设备工业设计.
+              * Appearance and human-machine interface design for three-dimensional microcircuit printing equipment.
     design:
       columns: '2'
   - block: accomplishments
