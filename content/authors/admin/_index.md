@@ -11,7 +11,8 @@ last_name: Zhou
 
 # Status emoji
 status:
-  - icon: ☕️
+  # icon: ☕️
+   icon: :coffee:
 
 # Is this the primary user of the site?
 superuser: true
