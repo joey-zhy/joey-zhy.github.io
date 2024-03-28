@@ -31,12 +31,12 @@ summary: metal droplet ejection, micro-domain shielding gas, oxidation, airflow-
 
 tags:
 - Source Themes
-featured: ture
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+#url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
