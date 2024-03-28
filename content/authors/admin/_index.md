@@ -70,7 +70,7 @@ skills:
         icon: photo-film
         icon_pack: fas
       - name: Data analysis
-        description: 'Matlab, Origin, etc.'
+        description: 'Matlab, Origin, ImageJ, etc.'
         percent: 70
         icon: chart-pie
         icon_pack: fas
