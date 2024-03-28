@@ -111,30 +111,30 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - #certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-09-01'
-          description: ''
+          date_start: ''
+          description: 'in 2021 and 2018'
           icon: coursera
-          organization: Coursera
+          organization: Northwestern Polytechnical University
           organization_url:  https://www.nwpu.edu.cn/
           title: First-Class Academic Scholarship
           url: ''
-        - certificate_url: https://www.edx.org
+        - #certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
           description: The 6th National Ocean Vehicle Design and Production Competition.
           icon: edx
-          organization: edX
+          organization: China Shipbuilding Industry Group Co., Ltd
           organization_url: http://www.csic.com.cn/
           title: National Special Prize in China
           url: ''
-        - certificate_url: https://www.datacamp.com
+        - #certificate_url: https://www.datacamp.com
           date_end: ''
           date_start: '2018-03-01'
           description: ''
           icon: datacamp
-          organization: DataCamp
+          organization: Northwestern Polytechnical University
           organization_url: https://www.nwpu.edu.cn/
           title: 'Recommended exemption qualifications for masters'
           url: ''
