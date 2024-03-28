@@ -32,7 +32,7 @@ summary: metal droplet ejection, micro-domain shielding gas, oxidation, airflow-
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
