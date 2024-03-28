@@ -12,7 +12,7 @@ author_notes:
 - ""
 - ""
 date: "2022-04-19T00:00:00Z"
-doi: "10.3901/JME.2023.01.219"
+# doi: "10.3901/JME.2023.01.219"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-04-19T00:00:00Z"
