@@ -55,7 +55,7 @@ skills:
   - name: Technical
     items:
       - name: CFD Simulation
-        description: 'ANSYS Fluent, Flow3D, COMSOL, etc.'
+        description: 'ANSYS Fluent, Flow-3D, COMSOL, etc.'
         percent: 80
         icon: wind
         icon_pack: fas
