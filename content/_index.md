@@ -115,7 +115,7 @@ sections:
           date_end: ''
           date_start: '2021-03-01'
           description: 'in 2021, and 2018'
-          icon: coursera
+          icon: NWPU
           organization: Northwestern Polytechnical University
           organization_url:  https://www.nwpu.edu.cn/
           title: First-Class Academic Scholarship
@@ -124,7 +124,7 @@ sections:
           date_end: ''
           date_start: '2018-03-01'
           description: ''
-          icon: datacamp
+          icon: NWPU
           organization: Northwestern Polytechnical University
           organization_url: https://www.nwpu.edu.cn/
           title: 'Recommended exemption qualifications for masters'
@@ -136,7 +136,7 @@ sections:
           icon: edx
           organization:  China Shipbuilding Industry Group Co., Ltd
           organization_url: http://www.csic.com.cn/
-          title: National Special Prize in China
+          title: National Special Prize
           url: ''
     design:
       columns: '2'
