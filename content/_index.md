@@ -67,7 +67,7 @@ sections:
           company: Northwestern Polytechnical University
           company_url: ''
           #company_logo: org-gc
-          company_logo: org-gc
+          company_logo: NWPU
           location: Xi'an
           date_start: '2021-03-01'
           date_end: ''
