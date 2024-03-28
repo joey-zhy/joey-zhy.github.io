@@ -75,7 +75,7 @@ skills:
         icon: chart-pie
         icon_pack: fas
       - name: Electromechanical control
-        description: 'PMAC'
+        description: 'Programmable Multi-Axis Controller(PMAC)'
         percent: 70
         icon: robot
         icon_pack: fas        
