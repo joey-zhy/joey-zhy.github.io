@@ -99,6 +99,11 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
+      - name: Hiking
+        description: ''
+        percent: 70
+        icon: person-hiking
+        icon_pack: fas
       - name: Movie
         description: 'Entertainment'
         percent: 60
@@ -109,7 +114,11 @@ skills:
         percent: 60
         icon: music
         icon_pack: fas   
-
+      - name: Game
+        description: 'Entertainment'
+        percent: 50
+        icon: gamepad
+        icon_pack: fas  
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
