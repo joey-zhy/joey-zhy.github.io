@@ -115,7 +115,7 @@ sections:
           date_end: ''
           date_start: '2021-09-01' '2018-09-01'
           description: ''
-          icon: NWPU
+          icon: edx
           organization: Northwestern Polytechnical University
           organization_url: https://www.nwpu.edu.cn/
           title: 'First-Class Academic Scholarship'
@@ -133,7 +133,7 @@ sections:
           date_end: ''
           date_start: '2018'
           description: ''
-          icon: NWPU
+          icon: edx
           organization: Northwestern Polytechnical University
           organization_url: https://www.nwpu.edu.cn/
           title: 'Recommended exemption qualifications for masters'
