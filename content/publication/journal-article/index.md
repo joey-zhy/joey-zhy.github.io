@@ -8,6 +8,8 @@ authors:
 author_notes:
 - ""
 - "Corresponding Author"
+- ""
+- ""
 date: "2023-05-01T00:00:00Z"
 doi: "10.3901/JME.2023.01.219"
 
@@ -36,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: ''
+url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
