@@ -113,7 +113,7 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-09-01 2018-09-01'
+          date_start: '2021-09-01'
           description: ''
           icon: coursera
           organization: Coursera
