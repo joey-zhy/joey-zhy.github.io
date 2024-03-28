@@ -59,21 +59,32 @@ skills:
         percent: 80
         icon: wind
         icon_pack: fas
-      - name: 3D modeling
-        description: 'SolidWorks, Rhino, etc.'
+      - name: Engineering design, 3D modeling, rendering
+        description: 'SolidWorks, Rhino, CAD, CAXA, Keyshot, etc.'
         percent: 90
         icon: cube
         icon_pack: fas
       - name: Image/Video Processing
-        description: 'PhotoShop, LightRoom, Illustrator, Premiere, etc.'
+        description: 'PhotoShop, LightRoom, Illustrator, CorelDraw, Premiere, etc.'
         percent: 90
         icon: photo-film
         icon_pack: fas
+      - name: Data analysis
+        description: 'Matlab, Origin, etc.'
+        percent: 70
+        icon: chart-pie
+        icon_pack: fas
+      - name: Electromechanical control
+        description: 'PMAC'
+        percent: 70
+        icon: robot
+        icon_pack: fas        
       - name: Material characterization
         description: 'SEM, EDS, etc.'
         percent: 80
         icon: binoculars
         icon_pack: fas
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
