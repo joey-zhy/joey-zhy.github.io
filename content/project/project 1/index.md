@@ -1,5 +1,6 @@
 ---
  title: Research and equipment development of key technologies for metal droplet-based 3D printing (Shaanxi Province Key Research and Development Project)
+ location: Xi'an
  date_start: '2018-09-01'
  date_end: '2019-07-01'
  summary: |2-
