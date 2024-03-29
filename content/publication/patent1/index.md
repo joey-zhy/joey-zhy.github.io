@@ -7,7 +7,7 @@ authors:
 - Hejun Li
 - Yibo Dou
 author_notes:
-- "The supervisor is the first author"
+- "The supervisor"
 - ""
 - ""
 - ""
