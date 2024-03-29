@@ -1,9 +1,9 @@
 ---
-title: Simulation and experimental verification of uniform droplet ejection under shielding gas (A project from Hunan Province)
+title: Equipment digital circuit board repair process and experiment (A project from Hunan Province)
 summary: |2-
-   * Responsible for the overall program design of the project, the simulation of gas-liquid two-phase flow during droplet ejection, Simulation of impact and solidification process between droplets and substrate, experiment experimental verification research.
+   * In-depth participation in experimental research during the project research. Writing and proofreading the final project report.
 tags:
- - Main In-charge
+ - Main Participant
   
 #date: '2016-04-27T00:00:00Z'
 
@@ -32,9 +32,9 @@ url_video: ''
 #slides: example
 slides: ''
 ---
-Project Time: 2022-05 ~ 2023-06\
+Project Time: 2022-05 ~ 2023-12\
 \
 Research objectives:\
 This project aims to simulate the metal droplet ejection and deposition process under micro-domain protection and analyze the influence of different parameters on the metal droplet stable ejection. The implementation of this project could promote the engineering application of metal droplet ejection 3D printing, which would greatly reduce the size of the visual desktop ejection printing equipment and improve its operational flexibility.\
-<video src="/stasic/videos/droplet.mp4" autoplay="true" controls="controls" width="800" height="600">
+<video src="/videos/droplet.mp4" autoplay="true" controls="controls" width="800" height="600">
 </video>
