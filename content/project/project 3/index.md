@@ -1,10 +1,9 @@
 ---
-title: Research and equipment development of key technologies for metal droplet-based 3D printing (Shaanxi Province Key Research and Development Project)
+title: Simulation and experimental verification of uniform droplet ejection under shielding gas (A project from Hunan Province)
 summary: |2-
-   * Mainly responsible for the layout design of 3D printing equipment, 3D and 2D drawings, material purchase, and equipment construction, while in-depth participation in experimental research during the project research.
-   * Writing and proofreading the final project report, while organizing and writing financial audit materials for the project' ending.
+   * Responsible for the overall program design of the project, the simulation of gas-liquid two-phase flow during droplet ejection, Simulation of impact and solidification process between droplets and substrate, experiment experimental verification research.
 tags:
- - Main Participant
+ - Main In-charge
   
 #date: '2016-04-27T00:00:00Z'
 
@@ -33,5 +32,6 @@ url_video: ''
 #slides: example
 slides: ''
 ---
-Project Time: 2018-09 ~ 2019-07\
-Research objectives: The Project proposes the research and development of metal droplet ejection 3D printing equipment for microelectronic circuit/chip manufacturing and packaging. Develop piezoelectric metal droplet ejection device and its control system. Establish desktop metal droplet 3D printing equipment. Theoretically, study the mechanism of stress wave transmission, metal jet breakup, and droplet formation inside the nozzle, match material properties with ejection parameters, obtain the key droplet ejection process parameters by using numerical analysis and experiments, and realize the on-demand ejection and precise positioning of metal droplets in different temperature zones. Additional, study the matching law of metal droplet ejection and deposition parameters in a wide temperature range. analyze the bonding strength and fusion mechanism between metal droplets and substrate, realize the controlled deposition of metal droplets on different substrates, obtain the printing method of flexible microelectronic circuits and high-precision solder ball arrays. Eventually, provide a new and original 3D printing technology for the sustainable development of 3D printing industry in Shaanxi province.
+Project Time: 2022-05 ~ 2023-06\
+This project aims to simulate the metal droplet ejection and deposition process under micro-domain protection and analyze the influence of different parameters on the metal droplet stable ejection. The implementation of this project could promote the engineering application of metal droplet ejection 3D printing, which would greatly reduce the size of the visual desktop ejection printing equipment and improve its operational flexibility.\
+![Dropelt deposition simulation video](/assets/media/droplet.mp4 "Dropelt deposition")
