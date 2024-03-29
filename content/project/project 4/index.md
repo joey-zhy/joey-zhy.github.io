@@ -35,4 +35,4 @@ slides: ''
 Project Time: 2022-05 ~ 2023-12\
 \
 Research objectives:\
-This project aims to simulate the metal droplet ejection and deposition process under micro-domain protection and analyze the influence of different parameters on the metal droplet stable ejection. The implementation of this project could promote the engineering application of metal droplet ejection 3D printing, which would greatly reduce the size of the visual desktop ejection printing equipment and improve its operational flexibility.
+Uniform metal droplet jet 3D printing technology is used to repair faulty circuit boards in this project. Carry out equipment digital circuit board repair process tests using uniform metal droplet spraying, break through key issues such as solder droplet uniformity and landing point accuracy in uniform droplet spraying technology, and form a large deposition distance and high-density pin, ball grid array, Board-level maintenance processes such as four-sided flat pins improve the maintenance level of equipment's high-end microelectronic circuit boards.
