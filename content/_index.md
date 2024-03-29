@@ -152,9 +152,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
+        - name: Main In-charge
+          tag: Main In-charge
+        - name: Main Participants
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
