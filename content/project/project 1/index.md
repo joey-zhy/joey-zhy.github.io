@@ -33,6 +33,6 @@ url_video: ''
 #slides: example
 slides: ''
 ---
-Date Start: 2018-09-01
-Date End: 2019-07-01
+Date Start: 2018-09-01\
+Date End: 2019-07-01\
 Lorem i啦啦啦啦t at.
