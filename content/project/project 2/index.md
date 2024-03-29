@@ -1,10 +1,10 @@
 ---
-title: Research and equipment development of key technologies for metal droplet-based 3D printing (Shaanxi Province Key Research and Development Project)
+title: Micro-domain shielding gas system and experimental research of solder ball printing for 5G circuits (Innovation and Creativity Seed Fund for Master Students)
 summary: |2-
-   * Mainly responsible for the layout design of 3D printing equipment, 3D and 2D drawings, material purchase, and equipment construction, while in-depth participation in experimental research during the project research.
-   * Writing and proofreading the final project report, while organizing and writing financial audit materials for the project' ending.
+   * Responsible for the overall program design of the project. Based on the existing tin alloy ejection crucible components, combined with the equipment structure, designed an integrated opening  metal droplet-based ejection coaxial shielding gas system.
+   * Simulation and experiment research. Different shapes of shielding gas flow field were studied with commercial simulation software such as Fluent. The simulation results were verified by experiments.
 tags:
- - main participants
+ - main in-charge
   
 #date: '2016-04-27T00:00:00Z'
 
@@ -33,7 +33,7 @@ url_video: ''
 #slides: example
 slides: ''
 ---
-Project Time: 2018-09 ~ 2019-07\
+Project Time: 2020-01 ~ 2021-03\
 \
 Research objectives:\
-The Project proposes the research and development of metal droplet ejection 3D printing equipment for microelectronic circuit/chip manufacturing and packaging. Develop piezoelectric metal droplet ejection device and its control system. Establish desktop metal droplet 3D printing equipment. Theoretically, study the mechanism of stress wave transmission, metal jet breakup, and droplet formation inside the nozzle, match material properties with ejection parameters, obtain the key droplet ejection process parameters by using numerical analysis and experiments, and realize the on-demand ejection and precise positioning of metal droplets in different temperature zones. Additional, study the matching law of metal droplet ejection and deposition parameters in a wide temperature range. analyze the bonding strength and fusion mechanism between metal droplets and substrate, realize the controlled deposition of metal droplets on different substrates, obtain the printing method of flexible microelectronic circuits and high-precision solder ball arrays. Eventually, provide a new and original 3D printing technology for the sustainable development of 3D printing industry in Shaanxi province.
+Focusing on the problem that the existing ball grid array preparation technology cannot meet the future demand for mass manufacturing of 5G communication circuit bumps, we propose a new idea of uniform metal droplet on-demand ejection technology for 5G bump printing in an opening environment. The aim is to develop a controllable metal droplets ejection coaxial shielding gas system for 5G circuit bump printing. Study the effect of coaxial shielding gas on potential adverse factors such as the Karman vortex effect during high-speed flight of metal droplets. Achieve stable and controllable ejection of metal droplets and bump printing in an opening environment, laying the foundation for the industrial promotion and application of uniform metal droplet ejection technology in the field of high-frequency circuit packaging.
