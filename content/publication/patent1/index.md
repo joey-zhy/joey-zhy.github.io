@@ -1,5 +1,5 @@
 ---
-title: "Uniform droplet/polymer space circuit combined printing device and method"
+title: "Uniform droplet polymer space circuit combined printing device and method"
 authors:
 - Lehua Qi
 - Yi Zhou
