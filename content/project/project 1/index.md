@@ -1,13 +1,13 @@
 ---
- title: Research and equipment development of key technologies for metal droplet-based 3D printing (Shaanxi Province Key Research and Development Project)
- location: Xi'an
- date_start: '2018-09-01'
- date_end: '2019-07-01'
- summary: |2-
+title: Research and equipment development of key technologies for metal droplet-based 3D printing (Shaanxi Province Key Research and Development Project)
+date_start: '2018-09-01'
+date_end: '2019-07-01'
+show_date: true
+summary: |2-
    * Mainly responsible for the layout design of 3D printing equipment, 3D and 2D drawings, material purchase, and equipment construction, while in-depth participation in experimental research during the project research.
    * Writing and proofreading the final project report, while organizing and writing financial audit materials for the project' ending.
 tags:
-  - main participants
+ - main participants
   
 #date: '2016-04-27T00:00:00Z'
 
