@@ -4,7 +4,7 @@ summary: |2-
    * Mainly responsible for the layout design of 3D printing equipment, 3D and 2D drawings, material purchase, and equipment construction, while in-depth participation in experimental research during the project research.
    * Writing and proofreading the final project report, while organizing and writing financial audit materials for the project' ending.
 tags:
- - Main Participants
+ - Main Participant
   
 #date: '2016-04-27T00:00:00Z'
 
