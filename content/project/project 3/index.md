@@ -35,4 +35,6 @@ slides: ''
 Project Time: 2022-05 ~ 2023-06\
 \
 Research objectives:\
-This project aims to simulate the metal droplet ejection and deposition process under micro-domain protection and analyze the influence of different parameters on the metal droplet stable ejection. The implementation of this project could promote the engineering application of metal droplet ejection 3D printing, which would greatly reduce the size of the visual desktop ejection printing equipment and improve its operational flexibility.
+This project aims to simulate the metal droplet ejection and deposition process under micro-domain protection and analyze the influence of different parameters on the metal droplet stable ejection. The implementation of this project could promote the engineering application of metal droplet ejection 3D printing, which would greatly reduce the size of the visual desktop ejection printing equipment and improve its operational flexibility.\
+<video src="/videos/droplet.mp4" autoplay="true" controls="controls" width="800" height="600">
+</video>
