@@ -155,7 +155,7 @@ sections:
         - name: Main In-charge
           tag: Main In-charge
         - name: Main Participant
-           tag: Main Participant
+          tag: Main Participant
 #          tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
