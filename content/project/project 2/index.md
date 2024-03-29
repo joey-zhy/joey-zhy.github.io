@@ -4,7 +4,7 @@ summary: |2-
    * Responsible for the overall program design of the project. Based on the existing tin alloy ejection crucible components, combined with the equipment structure, designed an integrated opening  metal droplet-based ejection coaxial shielding gas system.
    * Simulation and experiment research. Different shapes of shielding gas flow field were studied with commercial simulation software such as Fluent. The simulation results were verified by experiments.
 tags:
- - main in-charge
+ - Main In-charge
   
 #date: '2016-04-27T00:00:00Z'
 
