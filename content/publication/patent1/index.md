@@ -1,15 +1,15 @@
 ---
 title: "Uniform droplet polymer space circuit combined printing device and method"
 authors:
-- Lehua Qi
 - Yi Zhou
+- Lehua Qi
+- Hongcheng Lian
 - Jun Luo
-- Hejun Li
-- Yibo Dou
+- Lin Su
 author_notes:
-- "The supervisor"
 - ""
-- ""
+- "Corresponding Author"
+- "Corresponding Author"
 - ""
 - ""
 date: "2022-04-19T00:00:00Z"
