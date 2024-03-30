@@ -220,7 +220,7 @@ sections:
       text: |-
         Good communication is the beginning of learning and progress, welcome to contact me!
       # Contact (add or remove contact options as necessary)
-      #email: yizhou@mail.nwpu.edu.cn
+      email: yizhou@mail.nwpu.edu.cn
       phone: 15991673837
       #appointment_url: 'https://calendly.com'
       address:
