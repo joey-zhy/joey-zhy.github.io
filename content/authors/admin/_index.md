@@ -162,5 +162,5 @@ social:
 highlight_name: true
 ---
 
-Yi Zhou is a PhD Student at Northwestern Polytechnical University. His research interests include metal droplet-based 3D printing, dynamic of metal droplet ejection and impacting, electronics packaging, construction of micro-domain shielding gas, and gas-liquid two-phase flow dynamics simulation. More detailed academic information could be found on my homepage in [Google Scholar](https://scholar.google.com/citations?user=k1hqbfQAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Yi-Zhou-293).
+Yi Zhou is a PhD Student at Northwestern Polytechnical University. His research interests include metal droplet-based 3D printing, dynamic of metal droplet ejection and impacting, electronics packaging, construction of micro-domain shielding gas, and gas-liquid two-phase flow dynamics simulation. More detailed academic information could be found on my homepage in **[Google Scholar](https://scholar.google.com/citations?user=k1hqbfQAAAAJ&hl=en)** and **[ResearchGate](https://www.researchgate.net/profile/Yi-Zhou-293)**.
 {style="text-align: justify;"}
