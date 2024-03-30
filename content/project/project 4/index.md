@@ -35,4 +35,4 @@ slides: ''
 Project Time: 2022-05 ~ 2023-12\
 \
 Research objectives:\
-Uniform metal droplet jet 3D printing technology is used to repair faulty circuit boards in this project. Carry out equipment digital circuit board repair process tests using uniform metal droplet spraying, break through key issues such as solder droplet uniformity and landing point accuracy in uniform droplet spraying technology, and form a large deposition distance and high-density pin, ball grid array, Board-level maintenance processes such as four-sided flat pins improve the maintenance level of equipment's high-end microelectronic circuit boards.
+Uniform metal droplet jet 3D printing technology is used to repair faulty circuit boards in this project. Conduct equipment digital circuit board repair experiments based on uniform metal droplet ejection, breakthrough key issues such as solder droplet uniformity and landing point accuracy, and realize board-level repair processes such as large deposition distance, high-density ball grid array packaging and quad flat packaging. In this way, improves the repair level of circuit boards in precision instruments.
