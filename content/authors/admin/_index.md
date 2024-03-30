@@ -124,13 +124,12 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: researchgate
-    icon_pack: ai
-    name: researchgate
-    link: https://www.researchgate.net/profile/Yi-Zhou-293
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=k1hqbfQAAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Yi-Zhou-293
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/joey.zho?igsh=MTRnYjVkODN4M2Zzag%3D%3D&utm_source=qr
@@ -163,5 +162,5 @@ social:
 highlight_name: true
 ---
 
-Yi Zhou is a PhD Student at Northwestern Polytechnical University. His research interests include metal droplet-based 3D printing, dynamic of metal droplet ejection and impacting, electronics packaging, construction of micro-domain shielding gas, and gas-liquid two-phase flow dynamics simulation.
+Yi Zhou is a PhD Student at Northwestern Polytechnical University. His research interests include metal droplet-based 3D printing, dynamic of metal droplet ejection and impacting, electronics packaging, construction of micro-domain shielding gas, and gas-liquid two-phase flow dynamics simulation. More detailed academic information could be found on my homepage in [Google Scholar][标1] [标1]:https://scholar.google.com/citations?user=k1hqbfQAAAAJ&hl=en and [ResearchGate][标2] [标2]:hhttps://www.researchgate.net/profile/Yi-Zhou-293.
 {style="text-align: justify;"}
