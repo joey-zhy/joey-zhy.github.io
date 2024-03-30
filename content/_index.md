@@ -100,7 +100,7 @@ sections:
         - #certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2017-08-01'
-          description: The 6th National Ocean Vehicle Design and Production Competition.
+          description: The 6th National Ocean Vehicle Design and fabrication Competition.
           icon: CSIC
           organization:  China Shipbuilding Industry Group Co., Ltd
           organization_url: http://www.csic.com.cn/
