@@ -77,17 +77,17 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'giscus'
     disqus:
       shortname: ''
       show_count: true
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'joey-zhy/theme-academic-cv'
+      repo_id: 'R_kgDOLmBpPw'
+      category: 'Announcements'
+      category_id: 'DIC_kwDOLmBpP84CeU9X'
   search:
     provider: wowchemy
     algolia:
