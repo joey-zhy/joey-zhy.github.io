@@ -126,6 +126,7 @@ skills:
 social:
   - icon: researchgate
     icon_pack: ai
+    name: researchgate
     link: https://www.researchgate.net/profile/Yi-Zhou-293
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
@@ -136,7 +137,7 @@ social:
     label: Follow me on Instagram
     display:
       header: true
-   - icon: twitter
+  - icon: twitter
     icon_pack: fab
     link: https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA
     label: Follow me on Twitter
