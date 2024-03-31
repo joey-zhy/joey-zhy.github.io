@@ -33,7 +33,7 @@ abstract: The invention relates to a uniform micro-droplet/polymer space circuit
 summary: Uniform droplet, polymer, space circuit.
 
 tags:
-- Source Themes
+- Authorized Patent in China
 featured: false
 
 # links:

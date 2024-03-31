@@ -33,7 +33,7 @@ abstract: The invention provides a metal droplet jetting device with a small bac
 summary: metal droplet, micro backflow domain, shielding gas.
 
 tags:
-- Source Themes
+- Authorized Patent in China
 featured: false
 
 # links:
