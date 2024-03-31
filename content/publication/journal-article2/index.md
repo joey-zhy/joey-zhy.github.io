@@ -33,7 +33,7 @@ abstract: Using coaxial shielding gas for low-oxygen protection in metal droplet
 summary: Coaxial shielding gas, Annular impinging jet, Droplet formation, Metal jet deflection, Metal droplet-based 3D printing.
 
 tags:
-- SCI Top journal (Q1)
+- SCI Top Journal (Q1)
 featured: true
 
 # links:
