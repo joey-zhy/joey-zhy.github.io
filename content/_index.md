@@ -279,21 +279,7 @@ sections:
           <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; height: 750px;">Loading…</iframe>
        </div>
 
-    design:
-      columns: '2'
+       <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=108.90377998352051%2C34.24040196348247%2C108.9192295074463%2C34.24904914265196&amp;layer=mapnik&amp;marker=34.244725664117134%2C108.9115047454834" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=34.24473&amp;mlon=108.91150#map=17/34.24473/108.91150&amp;layers=N">View larger maps</a></small>
 
-  - block: markdown
-    id: contt
-    content:
-      title: Contt
-      text: |-
-       
-       <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=108.90707373619081%2C34.243071510398536%2C108.9147984981537%2C34.247395073906816&amp;layer=mapnik" style="border: 1px solid black"></iframe>
-       <br/><small><a href="https://www.openstreetmap.org/#map=18/34.24523/108.91094&amp;layers=N">查看更大的地图</a></small>
-
-
-
-
-    design:
-      columns: '2'      
+  
 ---
