@@ -279,7 +279,12 @@ sections:
           <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; height: 750px;">Loading…</iframe>
        </div>
 
-       <iframe width="800" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=108.88004779815674%2C34.227558696570654%2C108.94184589385988%2C34.26214735991332&amp;layer=mapnik&amp;marker=34.24485480504372%2C108.9109468460083" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=34.2449&amp;mlon=108.9109#map=15/34.2449/108.9109&amp;layers=N">View larger maps</a></small>
 
-  
+       <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=108.88004779815674%2C34.227558696570654%2C108.94184589385988%2C34.26214735991332&amp;layer=mapnik&amp;marker=34.24485480504372%2C108.9109468460083" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=34.2449&amp;mlon=108.9109#map=15/34.2449/108.9109&amp;layers=N">View larger maps</a></small>
+
+
+
+
+    design:
+      columns: '2'
 ---
