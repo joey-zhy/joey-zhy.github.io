@@ -286,20 +286,20 @@ sections:
        <span style="font-size: 50px;">
            {{< icon name="envelope" pack="fas" >}}
        </span>  
-       <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 30px;">yizhou@mail.nwpu.edu.cn</a>
+       <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 30px;">yizhou@mail.nwpu.edu.cn</a>  
        
        <!-- 电话 -->
        <span style="font-size: 50px;">
            {{< icon name="mobile" pack="fas" >}}
        </span>  
-       <a href="tel:+86-15991673837" style="font-size: 30px;"+86-15991673837</a>
+       <a href="tel:+86-15991673837" style="font-size: 30px;"+86-15991673837</a>  
 
 
        <!-- 推特 -->
        <span style="font-size: 50px;">
            {{< icon name="twitter" pack="fab" >}}
        </span>  
-       <a href="https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA" style="font-size: 30px;">DM Me</a>
+       <a href="https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA" style="font-size: 30px;">DM Me</a>  
 
        
        <div style="width: 100%;">
