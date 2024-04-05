@@ -279,8 +279,6 @@ sections:
           <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; height: 684px;">Loading…</iframe>
        </div>
 
-
-      |                          |                                                           |
       |--------------------------|-----------------------------------------------------------|
       | Title                    | Contact                                                   |
       | Subtitle                 |                                                           |
