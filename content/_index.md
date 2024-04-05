@@ -296,7 +296,7 @@ sections:
                <span style="font-size: 50px;">
                  {{< icon name="mobile" pack="fas" >}}
                </span>  
-               <a href="tel:+86-15991673837" style="font-size: 30px;">+86-15991673837</a>
+               <a href="tel:+8615991673837" style="font-size: 30px;">+86 15991673837</a>
            </div>
 
            <!-- 推特 -->
