@@ -288,7 +288,9 @@ sections:
       title: Contt
       text: |-
        
-       <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=108.90707373619081%2C34.243071510398536%2C108.9147984981537%2C34.247395073906816&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/34.24523/108.91094&amp;layers=N">查看更大的地图</a></small>
+       <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=108.90707373619081%2C34.243071510398536%2C108.9147984981537%2C34.247395073906816&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+       <br/><small><a href="https://www.openstreetmap.org/#map=18/34.24523/108.91094&amp;layers=N">查看更大的地图</a></small>
+
 
 
 
