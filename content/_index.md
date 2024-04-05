@@ -226,46 +226,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" width="640" height="684" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
       
-      email: yizhou@mail.nwpu.edu.cn
-      phone: 15991673837
-      #appointment_url: 'https://calendly.com'
-      address:
-        street: 127 West Youyi Road, Beilin District
-        city: Xi'an
-        region: Shaanxi
-        postcode: '710072'
-        country: P.R.China.
-        country_code: CN
-      directions: Aviation building in Northwestern Polytechnical University
-      office_hours:
-        - 'Working day 08:30 to 23:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '34.24505'
-        longitude: '108.91092'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA'
-        # - icon: skype
-        #   icon_pack: fab
-        #   name: Skype Me
-        #   link: 'skype:echo123?call'
-        # - icon: video
-        #   icon_pack: fas
-        #   name: Zoom Me
-        #   link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+
     design:
       columns: '2'
 ---
