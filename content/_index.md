@@ -274,11 +274,11 @@ sections:
       - icon: envelope
        icon_pack: fas
        link: 'mailto:yizhou@mail.nwpu.edu.cn'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA' 
+      - icon: twitter
+       icon_pack: fab
+       name: DM Me
+       link: 'https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA' 
+       
       text: |-
        ## Contact
 
