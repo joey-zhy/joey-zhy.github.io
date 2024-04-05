@@ -299,11 +299,12 @@ sections:
        <a style="font-size: 18px; vertical-align: middle;">127 West Youyi Road, Beilin District, Xi'an, Shaanxi 710072</a>
        <br>
 
-       <span style="font-size: 36px; vertical-align: middle;">
-           {{< icon name="compass" pack="fas" >}}
-       </span>  
-       <a style="font-size: 18px; vertical-align: middle; display: inline-block; width: 100%;">Aviation building in Northwestern Polytechnical University</a>
-       <br>
+       <div style="display: inline-block; vertical-align: middle;">
+           <span style="font-size: 36px;">
+               {{< icon name="compass" pack="fas" >}}
+           </span>  
+           <a style="font-size: 18px; vertical-align: middle;">Aviation building in Northwestern Polytechnical University</a>
+       </div>
 
        <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="clock" pack="fas" >}}
