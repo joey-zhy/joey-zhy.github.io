@@ -282,7 +282,7 @@ sections:
           <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; height: 750px;">Loading…</iframe>
        </div>\
       
-       <span style="font-size: 80px;">
+       <span style="font-size: 50px;">
            {{< icon name="twitter" pack="fab" >}} 
        </span>
         **[DM Me](https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA)**
