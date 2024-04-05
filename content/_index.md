@@ -217,14 +217,14 @@ sections:
   #   design:
   #     columns: '2'
   - block: contact
-  id: contact
-  content:
+    id: contact
+    content:
     title: Contact
     subtitle: null
     text: "Good communication is the beginning of learning and progress, welcome to contact me!"
     iframe_code: |
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" width="640" height="684" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-  design:
+    design:
     columns: '2'
 
 ---
