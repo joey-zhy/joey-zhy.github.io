@@ -283,9 +283,8 @@ sections:
        </div>\
       
        <span style="font-size: 80px;">
-           {{< icon name="twitter" pack="fab" >}}
+           {{< icon name="twitter" pack="fab" >}} **[DM Me](https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA)**
        </span>
-       **[DM Me](https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA)**
 
        \
        <div style="width: 100%;">
