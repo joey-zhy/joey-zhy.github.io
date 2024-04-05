@@ -304,7 +304,7 @@ sections:
        <a style="font-size: 18px; vertical-align: middle;">Aviation building in Northwestern Polytechnical University</a>
        <br>
 
-       <span style="font-size: 362px; vertical-align: middle;">
+       <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="clock" pack="fas" >}}
        </span>  
        <a style="font-size: 18px; vertical-align: middle;">Working day 08:30 to 23:00</a>
