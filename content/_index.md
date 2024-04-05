@@ -269,7 +269,7 @@ sections:
   - block: markdown
     id: cont
     content:
-      title: cont
+      title: Cont
       text: |-
        ## Contact
 
@@ -278,6 +278,27 @@ sections:
        <div id="contact-form">
           <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; height: 750px;">Loading…</iframe>
        </div>
+
+       ## My Map with Marker
+
+       <div id="map" style="height: 400px; width: 100%;"></div>
+
+       <script>
+       function initMap() {
+         var myLatLng = {lat: -34.397, lng: 150.644}; // 标记的位置坐标
+         var map = new google.maps.Map(document.getElementById('map'), {
+           zoom: 8, // 设置缩放级别
+           center: myLatLng // 设置地图中心位置
+         });
+         var marker = new google.maps.Marker({
+           position: myLatLng,
+           map: map,
+           title: 'Hello World!' // 设置标记的标题
+         });
+       }
+       </script>
+
+       <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
 
 
     design:
