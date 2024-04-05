@@ -41,13 +41,13 @@ education:
   courses:
     - course: PhD in Mechanical Engineering
       institution: Northwestern Polytechnical University
-      year: 2021
+      year: 2021~Current
     - course: MRes in Mechanical Engineering
       institution: Northwestern Polytechnical University
-      year: 2018
+      year: 2018~2021
     - course: BEng in Industrial Design
       institution: Northwestern Polytechnical University
-      year: 2014
+      year: 2014~2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
