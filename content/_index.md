@@ -282,27 +282,16 @@ sections:
 
 
        ```html
-       <!DOCTYPE html>
-       <html lang="en">
-       <head>
-           <meta charset="UTF-8">
-           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-           <title>OpenStreetMap Example</title>
-           <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-           <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-       </head>
-       <body>
-           <div id="map" style="height: 400px;"></div>
-           <script>
-               var map = L.map('map').setView([51.505, -0.09], 13); // 设置中心点和缩放级别
-               L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-               }).addTo(map);
+       <div id="map" style="height: 400px;"></div>
+       <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+       <script>
+       var map = L.map('map').setView([51.505, -0.09], 13); // 设置中心点和缩放级别
+       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+           attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+       }).addTo(map);
 
-               var marker = L.marker([51.5, -0.09]).addTo(map); // 添加标记
-           </script>
-       </body>
-       </html>```
+       var marker = L.marker([51.5, -0.09]).addTo(map); // 添加标记
+       </script>
 
 
 
