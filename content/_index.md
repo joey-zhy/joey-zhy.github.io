@@ -302,7 +302,7 @@ sections:
        <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="compass" pack="fas" >}}
        </span>  
-       <a style="font-size: 22px; vertical-align: middle; display: inline-block; width: 100%;">Aviation building in Northwestern Polytechnical University</a>
+       <a style="font-size: 22px; vertical-align: middle;">Aviation building in Northwestern Polytechnical University</a>
        <br>
 
        <span style="font-size: 36px; vertical-align: middle;">
