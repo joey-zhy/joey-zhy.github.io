@@ -173,7 +173,6 @@ sections:
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" width="640" height="684" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     design:
       columns: '1'
   - block: collection
@@ -267,4 +266,17 @@ sections:
           captcha: false
     design:
       columns: '2'
+ - block: markdown
+   id: cont
+   content:
+     title: cont
+      text: |-
+       ## Contact
+
+       Good communication is the beginning of learning and progress, welcome to contact me!
+
+       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" width="640" height="684" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+   design:
+     columns: '1'
 ---
