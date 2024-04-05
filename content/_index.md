@@ -285,7 +285,7 @@ sections:
        <span style="font-size: 50px;">
            {{< icon name="twitter" pack="fab" >}}
        </span>  
-       [DM Me](https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA)
+       <a href="https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA" style="font-size: 16px;">DM Me</a>
 
        
        <div style="width: 100%;">
