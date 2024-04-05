@@ -319,7 +319,7 @@ sections:
        <br>
        
        <div style="width: 100%;">
-       <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=108.89571189880371%2C34.23699625417745%2C108.92661094665529%2C34.25429042383522&amp;layer=mapnik&amp;marker=34.2456437832116%2C108.91116142272949&amp; zoom=15" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=34.2456&amp;mlon=108.9112#map=16/34.2456/108.9112&amp;layers=N">View larger maps</a></small>
+       <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=108.89571189880371%2C34.23699625417745%2C108.92661094665529%2C34.25429042383522&amp;layer=mapnik&amp;marker=34.2456437832116%2C108.91116142272949&amp;zoom=15" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=34.2456&amp;mlon=108.9112#map=16/34.2456/108.9112&amp;layers=N">View larger maps</a></small>
        </div>
 
 
