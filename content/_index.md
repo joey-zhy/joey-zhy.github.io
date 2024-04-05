@@ -296,6 +296,14 @@ sections:
        <a href="tel:+8615991673837" style="font-size: 24px;">+86 15991673837</a>
        <br>
 
+       {{< icon name="location-dot" pack="fas" >}} 127 West Youyi Road, Beilin District, Xi'an, Shaanxi 710072
+       <br>
+       {{< icon name="compass" pack="fas" >}} Aviation building in Northwestern Polytechnical University
+       <br>
+       {{< icon name="clock" pack="fas" >}} Working day 08:30 to 23:00
+       <br>
+
+
        <!-- 推特 -->
        <span style="font-size: 42px;">
            {{< icon name="twitter" pack="fab" >}}
