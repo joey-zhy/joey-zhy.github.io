@@ -275,46 +275,46 @@ sections:
        ## Good communication is the beginning of learning and progress, welcome to contact me!
 
        <div id="contact-form">
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; height: 750px;">Loading…</iframe>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; height: 800px;">Loading…</iframe>
        </div>  
 
        <!-- 邮箱 -->
-       <span style="font-size: 42px; vertical-align: middle;">
+       <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="envelope" pack="fas" >}}
        </span>  
-       <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 24px; vertical-align: middle;">yizhou@mail.nwpu.edu.cn</a>
+       <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 18px; vertical-align: middle;">yizhou@mail.nwpu.edu.cn</a>
        <br>
 
        <!-- 电话 -->
-       <span style="font-size: 42px; vertical-align: middle;">
+       <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="mobile" pack="fas" >}}
        </span>  
-       <a href="tel:+8615991673837" style="font-size: 24px; vertical-align: middle;">+86 15991673837</a>
+       <a href="tel:+8615991673837" style="font-size: 18px; vertical-align: middle;">+86 15991673837</a>
        <br>
 
-       <span style="font-size: 42px; vertical-align: middle;">
+       <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="location-dot" pack="fas" >}}
        </span>  
-       <a style="font-size: 24px; vertical-align: middle;">127 West Youyi Road, Beilin District, Xi'an, Shaanxi 710072</a>
+       <a style="font-size: 18px; vertical-align: middle;">127 West Youyi Road, Beilin District, Xi'an, Shaanxi 710072</a>
        <br>
 
-       <span style="font-size: 42px; vertical-align: middle;">
+       <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="compass" pack="fas" >}}
        </span>  
-       <a style="font-size: 24px; vertical-align: middle;">Aviation building in Northwestern Polytechnical University</a>
+       <a style="font-size: 18px; vertical-align: middle;">Aviation building in Northwestern Polytechnical University</a>
        <br>
 
-       <span style="font-size: 42px; vertical-align: middle;">
+       <span style="font-size: 362px; vertical-align: middle;">
            {{< icon name="clock" pack="fas" >}}
        </span>  
-       <a style="font-size: 24px; vertical-align: middle;">Working day 08:30 to 23:00</a>
+       <a style="font-size: 18px; vertical-align: middle;">Working day 08:30 to 23:00</a>
        <br>
 
        <!-- 推特 -->
-       <span style="font-size: 42px; vertical-align: middle;">
+       <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="twitter" pack="fab" >}}
        </span>  
-       <a href="https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA" style="font-size: 24px; vertical-align: middle;">DM Me</a>
+       <a href="https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA" style="font-size: 18px; vertical-align: middle;">DM Me</a>
 
        
        <div style="width: 100%;">
