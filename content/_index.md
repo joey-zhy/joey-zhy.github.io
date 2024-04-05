@@ -283,6 +283,7 @@ sections:
 
        <div id="map" style="height: 400px;"></div>
 
+       <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
        <script>
        // JavaScript code for map initialization
        var map = L.map('map').setView([51.505, -0.09], 13); // 设置中心点和缩放级别
