@@ -283,10 +283,10 @@ sections:
        </div>  
 
        <!-- 邮箱 -->
-       <span style="font-size: 42px;">
+       <span style="font-size: 42px; vertical-align: middle;">
            {{< icon name="envelope" pack="fas" >}}
        </span>  
-       <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 24px;">yizhou@mail.nwpu.edu.cn</a>
+       <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 24px; vertical-align: middle;">yizhou@mail.nwpu.edu.cn</a>
        <br>
 
        <!-- 电话 -->
