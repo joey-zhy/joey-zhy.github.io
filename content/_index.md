@@ -279,25 +279,7 @@ sections:
           <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; height: 684px;">Loading…</iframe>
        </div>
 
-       |--------------------------|-----------------------------------------------------------|
-       | Title                    | Contact                                                   |
-       | Subtitle                 |                                                           |
-       | Text                     | Good communication is the beginning of learning and progress, welcome to contact me! |
-       | Email                    | yizhou@mail.nwpu.edu.cn                                  |
-       | Phone                    | 15991673837                                               |
-       | Address                  |                                                           |
-       | Street                   | 127 West Youyi Road, Beilin District                     |
-       | City                     | Xi'an                                                     |
-       | Region                   | Shaanxi                                                   |
-       | Postcode                 | 710072                                                    |
-       | Country                  | P.R.China                                                 |
-       | Country Code             | CN                                                        |
-       | Directions               | Aviation building in Northwestern Polytechnical University |
-       | Office Hours             | Working day 08:30 to 23:00                                |
-       | Coordinates              | Latitude: 34.24505 Longitude: 108.91092                   |
-       | Autolink                 | true                                                      |
-       | Contact Links            | [DM Me](https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA) |
 
     design:
-      columns: '1'
+      columns: '2'
 ---
