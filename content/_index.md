@@ -275,22 +275,11 @@ sections:
 
        Good communication is the beginning of learning and progress, welcome to contact me!
 
-       <div id="contact-form" style="width: 100%;">
-         <iframe id="contact-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; border: none;">Loading…</iframe>
+       <div id="contact-form">
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; height: 684px;">Loading…</iframe>
        </div>
 
-       <script>
-       document.addEventListener('DOMContentLoaded', function() {
-         var iframe = document.getElementById('contact-iframe');
-         var resizeInterval = setInterval(function() {
-           var contentHeight = iframe.contentWindow.document.body.scrollHeight;
-           if (contentHeight > 0) {
-             clearInterval(resizeInterval);
-             iframe.style.height = contentHeight + 'px';
-          }
-        }, 100); // 每隔100毫秒检查一次内容高度
-       });
-       </script>
+
       |                          |                                                           |
       |--------------------------|-----------------------------------------------------------|
       | Title                    | Contact                                                   |
