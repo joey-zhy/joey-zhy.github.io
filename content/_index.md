@@ -282,24 +282,32 @@ sections:
           <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; height: 750px;">Loading…</iframe>
        </div>  
 
-       <!-- 邮箱 -->
-       <span style="font-size: 50px;">
-           {{< icon name="envelope" pack="fas" >}}
-       </span>  
-       <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 30px;">yizhou@mail.nwpu.edu.cn</a>  
-       
-       <!-- 电话 -->
-       <span style="font-size: 50px;">
-           {{< icon name="mobile" pack="fas" >}}
-       </span>  
-       <a href="tel:+86-15991673837" style="font-size: 30px;"+86-15991673837</a>  
+       <div style="display: flex;">
+           <!-- 邮箱 -->
+           <div>
+               <span style="font-size: 50px;">
+                   {{< icon name="envelope" pack="fas" >}}
+               </span>  
+               <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 30px;">yizhou@mail.nwpu.edu.cn</a>
+           </div>
 
+           <!-- 电话 -->
+           <div>
+               <span style="font-size: 50px;">
+                 {{< icon name="mobile" pack="fas" >}}
+               </span>  
+               <a href="tel:+86-15991673837" style="font-size: 30px;">+86-15991673837</a>
+           </div>
 
-       <!-- 推特 -->
-       <span style="font-size: 50px;">
-           {{< icon name="twitter" pack="fab" >}}
-       </span>  
-       <a href="https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA" style="font-size: 30px;">DM Me</a>  
+           <!-- 推特 -->
+           <div>
+               <span style="font-size: 50px;">
+                   {{< icon name="twitter" pack="fab" >}}
+               </span>  
+               <a href="https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA" style="font-size: 30px;">DM Me</a>
+           </div>
+       </div>
+
 
        
        <div style="width: 100%;">
