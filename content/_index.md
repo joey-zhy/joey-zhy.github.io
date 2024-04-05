@@ -283,42 +283,42 @@ sections:
        </div>  
 
        <!-- 邮箱 -->
-       <span style="font-size: 42px; vertical-align: top;">
+       <span style="font-size: 42px; vertical-align: middle;">
            {{< icon name="envelope" pack="fas" >}}
        </span>  
-       <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 24px; vertical-align: top;">yizhou@mail.nwpu.edu.cn</a>
+       <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 24px; vertical-align: middle;">yizhou@mail.nwpu.edu.cn</a>
        <br>
 
        <!-- 电话 -->
-       <span style="font-size: 42px; vertical-align: top;">
+       <span style="font-size: 42px; vertical-align: middle;">
            {{< icon name="mobile" pack="fas" >}}
        </span>  
-       <a href="tel:+8615991673837" style="font-size: 24px; vertical-align: top;">+86 15991673837</a>
+       <a href="tel:+8615991673837" style="font-size: 24px; vertical-align: middle;">+86 15991673837</a>
        <br>
 
-       <span style="font-size: 42px; vertical-align: top;">
+       <span style="font-size: 42px; vertical-align: middle;">
            {{< icon name="location-dot" pack="fas" >}}
        </span>  
-       <a style="font-size: 24px; vertical-align: top;">127 West Youyi Road, Beilin District, Xi'an, Shaanxi 710072</a>
+       <a style="font-size: 24px; vertical-align: middle;">127 West Youyi Road, Beilin District, Xi'an, Shaanxi 710072</a>
        <br>
 
-       <span style="font-size: 42px; vertical-align: top;">
+       <span style="font-size: 42px; vertical-align: middle;">
            {{< icon name="compass" pack="fas" >}}
        </span>  
-       <a style="font-size: 24px; vertical-align: top;">Aviation building in Northwestern Polytechnical University</a>
+       <a style="font-size: 24px; vertical-align: middle;">Aviation building in Northwestern Polytechnical University</a>
        <br>
 
-       <span style="font-size: 42px; vertical-align: top;">
+       <span style="font-size: 42px; vertical-align: middle;">
            {{< icon name="clock" pack="fas" >}}
        </span>  
-       <a style="font-size: 24px; vertical-align: top;">Working day 08:30 to 23:00</a>
+       <a style="font-size: 24px; vertical-align: middle;">Working day 08:30 to 23:00</a>
        <br>
 
        <!-- 推特 -->
-       <span style="font-size: 42px; vertical-align: top;">
+       <span style="font-size: 42px; vertical-align: middle;">
            {{< icon name="twitter" pack="fab" >}}
        </span>  
-       <a href="https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA" style="font-size: 24px; vertical-align: top;">DM Me</a>
+       <a href="https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA" style="font-size: 24px; vertical-align: middle;">DM Me</a>
 
        
        <div style="width: 100%;">
