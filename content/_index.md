@@ -224,6 +224,8 @@ sections:
       text: |-
         Good communication is the beginning of learning and progress, welcome to contact me!
       # Contact (add or remove contact options as necessary)
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSde3zVBxbc9EXWUtxL_hAzcvpQTyvxfIWoClqwyN1bzuJxVpA/viewform?embedded=true" width="640" height="684" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+      
       email: yizhou@mail.nwpu.edu.cn
       phone: 15991673837
       #appointment_url: 'https://calendly.com'
