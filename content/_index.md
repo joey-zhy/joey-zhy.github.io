@@ -290,7 +290,7 @@ sections:
        
        Below is the map:
 
-      {{< map >}}
+       {{< map >}}
 
 
 
