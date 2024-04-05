@@ -281,7 +281,7 @@ sections:
 
 
 
-       [OpenStreetMap Example](path/to/map.html)
+       [OpenStreetMap Example](map.html)
 
 
 
