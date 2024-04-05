@@ -280,18 +280,26 @@ sections:
        </div>
 
 
-       ```markdown
-       ```html
-       <div id="map" style="height: 400px;"></div>
+
+
+
+       Below is the map:
+
+       <div id="map"></div>
+
        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
        <script>
-       var map = L.map('map').setView([51.505, -0.09], 13); // 设置中心点和缩放级别
-       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-           attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-       }).addTo(map);
+         var map = L.map('map').setView([51.505, -0.09], 13);
 
-       var marker = L.marker([51.5, -0.09]).addTo(map); // 添加标记
+         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+           attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+         }).addTo(map);
+
+         L.marker([51.5, -0.09]).addTo(map)
+           .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
+           .openPopup();
        </script>
+
 
 
 
