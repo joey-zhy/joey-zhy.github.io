@@ -283,45 +283,43 @@ sections:
        <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="envelope" pack="fas" >}}
        </span>  
-       <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 18px; vertical-align: middle;">yizhou@mail.nwpu.edu.cn</a>
+       <a href="mailto:yizhou@mail.nwpu.edu.cn" style="font-size: 22px; vertical-align: middle;">yizhou@mail.nwpu.edu.cn</a>
        <br>
 
        <!-- 电话 -->
        <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="mobile" pack="fas" >}}
        </span>  
-       <a href="tel:+8615991673837" style="font-size: 18px; vertical-align: middle;">+86 15991673837</a>
+       <a href="tel:+8615991673837" style="font-size: 22px; vertical-align: middle;">+86 15991673837</a>
        <br>
 
        <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="location-dot" pack="fas" >}}
        </span>  
-       <a style="font-size: 18px; vertical-align: middle;">127 West Youyi Road, Beilin District, Xi'an, Shaanxi 710072</a>
+       <a style="font-size: 22px; vertical-align: middle;">127 West Youyi Road, Beilin District, Xi'an, Shaanxi 710072</a>
        <br>
 
-       <div style="display: inline-block; vertical-align: middle;">
-           <span style="font-size: 36px;">
-               {{< icon name="compass" pack="fas" >}}
-           </span>  
-           <a style="font-size: 18px; vertical-align: middle;">Aviation building in Northwestern Polytechnical University</a>
-       </div>
+       <span style="font-size: 36px; vertical-align: middle;">
+           {{< icon name="compass" pack="fas" >}}
+       </span>  
+       <a style="font-size: 22px; vertical-align: middle; display: inline-block; width: 100%;">Aviation building in Northwestern Polytechnical University</a>
        <br>
 
        <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="clock" pack="fas" >}}
        </span>  
-       <a style="font-size: 18px; vertical-align: middle;">Working day 08:30 to 23:00</a>
+       <a style="font-size: 22px; vertical-align: middle;">Working day 08:30 to 23:00</a>
        <br>
 
        <!-- 推特 -->
        <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="twitter" pack="fab" >}}
        </span>  
-       <a href="https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA" style="font-size: 18px; vertical-align: middle;">DM Me</a>
+       <a href="https://x.com/zhy_joey?s=21&t=nZMzjti83TCSk9c1YwsdgA" style="font-size: 22px; vertical-align: middle;">DM Me</a>
        <br>
        
        <div style="width: 100%;">
-       <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=108.89571189880371%2C34.23699625417745%2C108.92661094665529%2C34.25429042383522&amp;layer=mapnik&amp;marker=34.2456437832116%2C108.91116142272949&amp;zoom=18" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=34.2456&amp;mlon=108.9112#map=16/34.2456/108.9112&amp;layers=N">View larger maps</a></small>
+       <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=108.89571189880371%2C34.23699625417745%2C108.92661094665529%2C34.25429042383522&amp;layer=mapnik&amp;marker=34.2456437832116%2C108.91116142272949&amp; zoom=15" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=34.2456&amp;mlon=108.9112#map=16/34.2456/108.9112&amp;layers=N">View larger maps</a></small>
        </div>
 
 
