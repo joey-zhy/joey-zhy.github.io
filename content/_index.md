@@ -305,6 +305,7 @@ sections:
            </span>  
            <a style="font-size: 18px; vertical-align: middle;">Aviation building in Northwestern Polytechnical University</a>
        </div>
+       <br>
 
        <span style="font-size: 36px; vertical-align: middle;">
            {{< icon name="clock" pack="fas" >}}
