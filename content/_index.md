@@ -332,7 +332,6 @@ sections:
       text: |-
        ## Good communication is the beginning of learning and progress, welcome to contact me!
        <div id="disqus_thread"></div>
-       ```html
        <script>
            var disqus_config = function () {
            this.page.url = '{{ .Permalink }}';
