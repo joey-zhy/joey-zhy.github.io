@@ -325,11 +325,11 @@ sections:
     design:
       columns: '2'
 
- - block: html
+ - block: markdown
    id: Message Board
    content:
      title: Message Board
-     text: |
+     text: |-
        ## Leave any of your footprints here!
        <div id="disqus_thread"></div>
        <script>
