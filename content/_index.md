@@ -329,7 +329,7 @@ sections:
     id: Message Board
     content:
       title: Message Board
-      text: |-
+      text: |
        ## Leave any of your footprints here!
        <div id="disqus_thread"></div>
        <script>
