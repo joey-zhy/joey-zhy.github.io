@@ -325,7 +325,7 @@ sections:
     design:
       columns: '2'
 
-  - block: markdown
+  - block: html
     id: Message Board
     content:
       title: Message Board
@@ -348,24 +348,3 @@ sections:
       columns: '1'
 
 ---
-# Welcome to My Website
-
-This is the homepage of my website.
-
-<!-- Begin Disqus Code -->
-## Leave any of your footprints here!
-
-<div id="disqus_thread"></div>
-<script>
-    var disqus_config = function () {
-        this.page.url = '{{ .Permalink }}';
-        this.page.identifier = '{{ .Path }}';
-    };
-    (function() {
-        var d = document, s = d.createElement('script');
-        s.src = 'https://yi-zhou.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<!-- End Disqus Code -->
