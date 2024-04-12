@@ -348,6 +348,10 @@ sections:
       columns: '1'
 
 ---
+# Welcome to My Website
+
+This is the homepage of my website.
+
 <!-- Begin Disqus Code -->
 ## Leave any of your footprints here!
 
