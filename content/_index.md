@@ -325,11 +325,11 @@ sections:
     design:
       columns: '2'
 
- - block: markdown
-   id: Message Board
-   content:
-     title: Message Board
-     text: |-
+  - block: markdown
+    id: Message Board
+    content:
+      title: Message Board
+      text: |-
        ## Leave any of your footprints here!
        <div id="disqus_thread"></div>
        <script>
@@ -344,7 +344,7 @@ sections:
                (d.head || d.body).appendChild(s);
            })();
        </script>
-   design:
-     columns: '1'
+    design:
+      columns: '1'
 
 ---
