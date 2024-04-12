@@ -330,7 +330,7 @@ sections:
     content:
       title: Message Board
       text: |-
-       ## Good communication is the beginning of learning and progress, welcome to contact me!
+       ## Leave any of your footprints here!
        <div id="disqus_thread"></div>
        <script>
            var disqus_config = function () {
