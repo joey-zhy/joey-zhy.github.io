@@ -330,7 +330,7 @@ sections:
     content:
       title: Message Board
       text: |-
-       ## Leave any of your footprints here!
+       ## Leave any of your ideas or questions here, if necessary!
        <div id="disqus_thread"></div>
        <script>
           var disqus_config = function () {
