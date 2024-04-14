@@ -334,7 +334,7 @@ sections:
        <div id="disqus_thread"></div>
        <script>
           var disqus_config = function () {
-          this.page.url = '{{ .Permalink }}';
+          this.page.url = 'https://joey-zhy.github.io/';
           this.page.identifier = '{{ .Path }}';
           };
           (function() {
