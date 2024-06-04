@@ -1,5 +1,5 @@
 ---
-title: "Investigation on the effect mechanism of micro-domain shielding gas on metal droplet ejection process"
+title: "Effect of impinging behavior annular jet shielding gas and printing substrate on metal droplet stable ejection"
 authors:
 - Yi Zhou
 - Lehua Qi
