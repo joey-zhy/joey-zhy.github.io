@@ -34,7 +34,7 @@ summary: Coaxial shielding gas; Oxidation; Droplet deposition; Droplet overlappi
 
 tags:
 - SCI Top Journal (Q1)
-featured: ture
+featured: true
 
 # links:
 # - name: ""
