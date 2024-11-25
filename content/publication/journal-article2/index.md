@@ -1,5 +1,5 @@
 ---
-title: "Effect of impinging behavior annular jet shielding gas and printing substrate on metal droplet stable ejection"
+title: "Effect of impinging behavior between annular jet shielding gas and printing substrate on metal droplet stable ejection"
 authors:
 - Yi Zhou
 - Lehua Qi
