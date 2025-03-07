@@ -22,13 +22,13 @@ publishDate: "2025-06-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ready to submit to International Journal of Machine Tools and Manufacture"
+publication: "*Ready to submit to International Journal of Machine Tools and Manufacture*"
 publication_short: ""
 
 abstract: Ready to submit to International Journal of Machine Tools and Manufacture，please wait for my good news.
 
 # Summary. An optional shortened abstract.
-summary: Coaxial shielding gas; Surface oxidation; deposition dynamics; Aluminum droplet; Metal micro-droplet deposition manufacturing.
+summary: Coaxial shielding gas, Surface oxidation, deposition dynamics, Aluminum droplet, Metal micro-droplet deposition manufacturing.
 
 tags:
 - SCI Top Journal (Q1) 
