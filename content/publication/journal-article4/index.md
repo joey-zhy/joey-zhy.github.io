@@ -1,5 +1,5 @@
 ---
-title: "Investigation on the effect mechanism of micro-domain shielding gas on metal droplet ejection process"
+title: "Uniform aluminum droplet deposition manufacturing in an open environment: oxidation suppression and stable printing under coaxial shielding gas"
 authors:
 - Yi Zhou
 - Lehua Qi
@@ -10,11 +10,11 @@ author_notes:
 - "Corresponding Author"
 - ""
 - ""
-date: "2023-05-01T00:00:00Z"
-doi: "10.3901/JME.2023.01.219"
+date: "2025-06-01T00:00:00Z"
+doi: "************"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-01T00:00:00Z"
+publishDate: "2025-06-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,16 +22,16 @@ publishDate: "2023-05-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Mechanical Engineering, 59*(1)"
+publication: "*Ready to submit to International Journal of Machine Tools and Manufacture"
 publication_short: ""
 
-abstract: A closed glove box with a deaeration system is widely applied for maintaining a low-oxygen environment (the oxygen content of <50 ppm) in metal droplet-based 3D printing. However, it is disadvantageous to the industrial application of the technology because of the narrow space of a glove box. Thus, it is very significant to construct a micro-domain low-oxygen environment at the exit of metal droplet ejection, which can prevent droplets from oxidation, broaden applicability, and improve flexibility. Meanwhile, an excellent micro-domain shielding environment is a key to promoting the engineering application of metal droplet-based 3D printing. However, shielding gas will generate airflow disturbance, which inhibits the stability and accuracy of the droplet printing. To address this problem, a novel annular gas jet micro-domain shielding device is designed and developed, the mechanisms of oxidation and airflow-dynamics during tin alloy droplet ejection process are studied by the combination of experiments and simulations. Results show that when the supply of shielding gas is insufficient, oxidation will decrease the surface tension and increase the viscosity of a metal jet (i.e. the Oh value of a metal jet increases), which leads to the generation of a single droplet with a conical tail. When the supply of shielding gas is excessive, the secondary vortex appears at the root of a metal jet, which causes a secondary breakup occurs, and then multiple metal droplets are formed. Furthermore, a long well-fused tin alloy pillar with an ordered arrangement and a size-uniform bump array with accurate landing-points are successfully printed under appropriate parameters, which confirms the effectiveness of the annular gas jet micro-domain shielding device. The current investigation may provide crucial technical and theoretical support for the application of metal droplet-based 3D printing.
+abstract: Ready to submit to International Journal of Machine Tools and Manufacture，please wait for my good news.
 
 # Summary. An optional shortened abstract.
-summary: metal droplet ejection, micro-domain shielding gas, oxidation, airflow-dynamics.
+summary: Coaxial shielding gas; Surface oxidation; deposition dynamics; Aluminum droplet; Metal micro-droplet deposition manufacturing.
 
 tags:
-- Top Journal in Chinese
+- SCI Top Journal (Q1) 
 featured: false
 
 # links:
@@ -43,7 +43,7 @@ url_pdf: ''
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-url_source: 'http://www.cjmenet.com.cn/CN/10.3901/JME.2023.01.219'
+url_source: '**************'
 #url_video: ''
 
 # Featured image
