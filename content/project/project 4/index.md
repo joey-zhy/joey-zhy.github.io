@@ -3,7 +3,7 @@ title: Equipment digital circuit board repair process and experiment (A project 
 summary: |2-
    * In-depth participation in experimental research during the project research. Writing and proofreading the final project report.
 tags:
- - Main Participant
+ - Main In-charge
   
 #date: '2016-04-27T00:00:00Z'
 

@@ -85,7 +85,7 @@ sections:
         - #certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-03-01'
-          description: 'in 2021, and 2018'
+          description: 'in 2024，2021, and 2018'
           icon: NWPU
           organization: Northwestern Polytechnical University
           organization_url:  https://www.nwpu.edu.cn/
