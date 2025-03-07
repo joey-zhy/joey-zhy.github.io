@@ -11,7 +11,7 @@ author_notes:
 - ""
 - ""
 date: "2025-06-01T00:00:00Z"
-doi: "************"
+doi: "123456789"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-06-01T00:00:00Z"
@@ -37,13 +37,13 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: ''
+#######url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-url_source: '**************'
+######url_source: '**************'
 #url_video: ''
 
 # Featured image
