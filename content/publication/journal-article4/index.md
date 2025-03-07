@@ -11,11 +11,11 @@ author_notes:
 - "Corresponding Author"
 - ""
 - ""
-date: "2025-03-01T00:00:00Z"
+date: "2025-06-01T00:00:00Z"
 ######doi: "123456789"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-01T00:00:00Z"
+publishDate: "2025-06-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,7 +23,7 @@ publishDate: "2025-03-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ready to submit to International Journal of Machine Tools and Manufacture*"
+publication: "*Ready to submit to International Journal of Machine Tools and Manufacture, 000*"
 publication_short: ""
 
 abstract: Ready to submit to International Journal of Machine Tools and Manufacture，please wait for my good news.
